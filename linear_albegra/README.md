@@ -1,2 +1,1 @@
-# 통계(Statistics)
-기초, 고급, 분석
+# 선형대수학(Linear Albegra)
